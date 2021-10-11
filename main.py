@@ -13,6 +13,7 @@ def app():
 	pass
 
 def get_file_contents(path):
+	"""This function returns the contents of a file"""
 	try:
 		with open(path,"r") as file:
 			return file.read()
@@ -21,6 +22,8 @@ def get_file_contents(path):
 			return file.read()
 
 def write_to_file(path,contents,data_type):
+	# This function writes data to a file
+	# It takes the path, the contents to write and the type of the data [str or bytes]
 	try:
 		if data_type == bytes:
 			with open(path,"wb") as file:
@@ -36,19 +39,19 @@ def write_to_file(path,contents,data_type):
 @click.argument("INPUT")
 @app.command()
 def encode(input,text,output):
-	output_value = []
+	output_value = [] #This list will hold the processed data
 	if text:
 		output_value = [pybase64.b64encode(input.encode()).decode(),str]
 	elif input:
 		if not path.exists(input):
-			click.echo("Error: File does not exists",err = True)
+			click.echo("Error: File does not exist",err = True)
 			exit()
 		else:
 			contents = get_file_contents(input)
 			if type(contents) == bytes:
 				output_value = [pybase64.b64encode(contents),bytes]
 			else:
-				output_value = [ pybase64.b64encode(contents.encode()).encode(), str]
+				output_value = [ pybase64.b64encode(contents.encode()).decode(), str]
 	if not output:
 		click.echo(output_value[0])
 	else:
@@ -73,7 +76,7 @@ def decode(input,text,output):
 			exit()
 	elif input:
 		if not path.exists(input):
-			click.echo("Error: File does not exists",err = True)
+			click.echo("Error: File does not exist",err = True)
 			exit()
 		else:
 			try:
@@ -84,6 +87,8 @@ def decode(input,text,output):
 					try:
 						output_value = [pybase64.b64decode(contents.encode()).decode(),str]
 					except:
+						#This means that even though the contents was stored in string format
+						#it's contents are actually binary data. So we need to convert it into binary
 						output_value = [pybase64.b64decode(contents.encode()),bytes]
 			except Exception as e:
 				print(e)
