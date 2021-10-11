@@ -1,0 +1,970 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"b64decode"
+			],
+			[
+				"ot",
+				"output_value"
+			],
+			[
+				"out",
+				"output_value"
+			],
+			[
+				"wr",
+				"write_to_file"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"vali",
+				"validateInput"
+			],
+			[
+				"brick",
+				"brickHeight"
+			],
+			[
+				"padd",
+				"paddleWidth"
+			],
+			[
+				"key",
+				"keyUpHandler"
+			],
+			[
+				"pad",
+				"paddleX"
+			],
+			[
+				"dra",
+				"drawPaddle"
+			],
+			[
+				"tra",
+				"transform: "
+			],
+			[
+				"con",
+				"continueAnimate"
+			],
+			[
+				"background-cl",
+				"background-clip: "
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"anim",
+				"animation: "
+			],
+			[
+				"backgrou",
+				"background-size: "
+			],
+			[
+				"inn",
+				"innerText"
+			],
+			[
+				"Car",
+				"Carousel"
+			],
+			[
+				"me",
+				"metadata"
+			],
+			[
+				"met",
+				"metadata"
+			],
+			[
+				"file",
+				"fileRegex"
+			],
+			[
+				"fil",
+				"fileRegex"
+			],
+			[
+				"impo",
+				"imports"
+			],
+			[
+				"im",
+				"imports"
+			],
+			[
+				"remark",
+				"remark_rehype"
+			],
+			[
+				"re",
+				"remark_newline"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"related_",
+				"related_posts"
+			],
+			[
+				"rel",
+				"related_posts"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"titl",
+				"titles"
+			],
+			[
+				"ti",
+				"titles"
+			],
+			[
+				"get",
+				"getRelatedArticles"
+			],
+			[
+				"remar",
+				"remark_breaks"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"fet",
+				"fetch_res"
+			],
+			[
+				"cac",
+				"caches"
+			],
+			[
+				"api",
+				"apiInstance"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"jus",
+				"justify-center"
+			],
+			[
+				"comm",
+				"comment_loaded"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"creat",
+				"createElement"
+			],
+			[
+				"stringi",
+				"JSON_stringify"
+			],
+			[
+				"fr",
+				"frontmatter"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"comment",
+				"commentsLoaded"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"Cr",
+				"CREATE_BLOG_TABLE"
+			],
+			[
+				"in",
+				"init"
+			],
+			[
+				"CRE",
+				"CREATE_BLOG_TABLE"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"consol",
+				"description-onscroll"
+			],
+			[
+				"cons",
+				"columnSpan"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"Promis",
+				"previousElementSibling"
+			],
+			[
+				"dy",
+				"dynamic_pages"
+			],
+			[
+				"fe",
+				"fetch_res"
+			],
+			[
+				"clo",
+				"cloned_response"
+			],
+			[
+				"mo",
+				"mode_value"
+			],
+			[
+				"min",
+				"minification_options"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"ju",
+				"justify-items"
+			],
+			[
+				"flex",
+				"flex-flow"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"tr",
+				"translateX()"
+			],
+			[
+				"e",
+				"translateZ()"
+			],
+			[
+				"w",
+				"skewY()"
+			],
+			[
+				"encry",
+				"encrypted"
+			],
+			[
+				"decr",
+				"decrypted"
+			],
+			[
+				"en",
+				"encrypted"
+			],
+			[
+				"L",
+				"LOWERCASE_LETTERS"
+			],
+			[
+				"i",
+				"fin"
+			],
+			[
+				"if",
+				"ife"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"ovw",
+				"overflow-x: "
+			],
+			[
+				"over",
+				"overflow-x: "
+			],
+			[
+				"word",
+				"word-wrap: "
+			],
+			[
+				"sear",
+				"search_value"
+			],
+			[
+				"ani",
+				"animate"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"on",
+				"input__container"
+			],
+			[
+				"max-",
+				"max-w-screen-sm"
+			],
+			[
+				"Cont",
+				"Content-Type"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"data",
+				"dataStr"
+			],
+			[
+				"sitem",
+				"sitemap-generator"
+			],
+			[
+				"dis",
+				"disc"
+			],
+			[
+				"m",
+				"small-caps"
+			],
+			[
+				"n",
+				"hand"
+			],
+			[
+				"q",
+				"oblique"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"p",
+				"ellipsis"
+			],
+			[
+				"di",
+				"disc"
+			],
+			[
+				"list-style-",
+				"list-style-position: "
+			],
+			[
+				"lower-",
+				"lower-roman"
+			],
+			[
+				"list",
+				"list-style-type: "
+			],
+			[
+				"listy-",
+				"list-style: "
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"too",
+				"tools_list"
+			],
+			[
+				"post",
+				"post_category"
+			],
+			[
+				"mds",
+				"mdsvexOptions"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dote",
+				"Set Syntax: DotENV"
+			],
+			[
+				"pos",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"svelte",
+				"Set Syntax: Svelte"
+			],
+			[
+				"git diff",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"find",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"post",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"uni",
+				"Unicode Character Insert: Show Panel"
+			],
+			[
+				"u",
+				"Unicode Character Insert: Show Panel"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"wakat",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Add All"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stu",
+				"Git: Status"
+			],
+			[
+				"git gui",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"gitgi",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"unicode",
+				"Unicode Character Insert: Show Panel"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"GitGutter: Support Info"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"doten",
+				"Set Syntax: DotENV"
+			],
+			[
+				"PACK",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 332.0,
+		"history":
+		[
+			"os.system(\"cls\")",
+			"import os",
+			"import sys",
+			"import",
+			"clear",
+			"help(view)",
+			"view",
+			"View"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Personal Files/Python/Qwik Base64"
+	],
+	"file_history":
+	[
+		"/C/Personal Files/Python/Qwik Base64/Qwik Base64",
+		"/C/Personal Files/Python/Qwik Base64/project",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/_flames.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/_Components/Show.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/app.css",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/_Components/Body.svelte",
+		"/C/Personal Files/trial/index.html",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/__layout.reset.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/ProjectCard.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/static/offline.html",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/service-worker.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/build.bash",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/sun.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/offline.html",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/_blog/redesign-with-sveltekit/index.md",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/contact/index.json.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/BlogSubscribe.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/newsletter/thanks.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/newsletter/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Button.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/[slug].svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/package.json",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/app.html",
+		"/C/Personal Files/www.kudadam.com.sveltekit/jsconfig.json",
+		"/C/Personal Files/www.kudadam.com.sveltekit/static/manifest.json",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/sitemap.xml.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/BlogCard.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/node_modules/svelte-carousel/src/units.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/index.json.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/generateSitemap.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/mdsvex.config.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/scripts/rehype-newlines.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/node_modules/remark-toc/index.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/node_modules/sade/readme.md",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/[slug].json.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/build/assets/manifest.json",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/__error.svelte",
+		"/C/Personal Files/pwa-app-store/.env",
+		"/C/Personal Files/pwa-app-store/src/routes/__layout.svelte",
+		"/C/Personal Files/pwa-app-store/src/lib/Components/Navbar.svelte",
+		"/C/Personal Files/pwa-app-store/src/lib/Icons/box.svelte",
+		"/C/Personal Files/pwa-app-store/src/lib/Icons/gamepad.svelte",
+		"/C/Personal Files/pwa-app-store/src/lib/Icons/gamepad.svg",
+		"/C/Personal Files/pwa-app-store/tailwind.config.cjs",
+		"/C/Personal Files/www.kudadam.com.sveltekit/static/sitemap.xml",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Footer.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Navbar.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/envelope.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/.git/COMMIT_EDITMSG",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Toolz/Body.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Toolz/ToolList.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/.env",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/addition-table-generator/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/advanced-word-and-letter-counter/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/browser-javascript-support-checker/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/division-table-generator/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/even-or-odd-number-checker/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/multiplication-table-generator/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/number-counter/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/number-extractor/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/number-factor-generator/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/palindrome-checker/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/random-number-generator/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/regular-expression-escaper/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/subtraction-table-generator/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/text-duplicator/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/text-to-camel-case/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/text-to-kebab-case/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/text-to-snake-case/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/heart.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/feed.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/build/assets/_app/pages/blog/[slug].svelte-c64a1160.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/hooks.js",
+		"/C/Users/Home1/Downloads/www.kudadam.com-master/www.kudadam.com-master/src/service-worker.js",
+		"/C/Users/Home1/Downloads/www.kudadam.com-master/www.kudadam.com-master/src/server.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/about/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/_blog/setup-sapper-cpanel-and-deployhq/index.md",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/contact/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/__layout.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Toolz/Header.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/app.postcss",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/projects/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/ContactForm.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Blog/Comment.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/scripts/mysql.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/static/open-sans-v26-latin.zip",
+		"/C/Personal Files/www.kudadam.com.sveltekit/node_modules/reading-time/README.md",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/rss.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/twitter.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/github.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/github-brands.svg",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/_components/show_relationship.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/_components/banner.svelte",
+		"/C/program files (x86)/xampp/php/windowsXamppPhp/php.ini-development",
+		"/C/program files (x86)/xampp/php/php.ini",
+		"/C/program files (x86)/xampp/php/windowsXamppPhp/php.ini-production",
+		"/C/program files (x86)/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/Home1/AppData/Local/Microsoft/Windows/INetCache/IE/UJZLMTHS/sms-20210518002754[1].xml",
+		"/C/Personal Files/www.kudadam.com.sveltekit/build/assets/service-worker.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/static/robots.txt",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/offline.svelte",
+		"/C/Users/Home1/Desktop/temp.py",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/stores/store.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Icons/moon.svelte",
+		"/C/Personal Files/temp/index.html",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/_blog/search-tool-html-javascript/index.md",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/index.json.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/_blog/caesar-cipher-ruby/index.md",
+		"/C/Users/Home1/Desktop/temp.rb",
+		"/C/Users/Home1/Desktop/temp.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/_blog/redesigning-website/index.md",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/new.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Modal.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/advanced-word-and-letter-counter/_Add.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/layout.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/__layout.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/flames/layout.reset.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/about/certificates.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/lib/Components/Head.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/sitemap.xml.file",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/blog/category/index.svelte",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/random-number-generator/_script.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/src/routes/toolz/palindrome-checker/_script.js",
+		"/C/Personal Files/www.kudadam.com.sveltekit/README.md"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 138.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Qwik Base64.sublime-workspace",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
