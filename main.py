@@ -59,7 +59,7 @@ def encode(input,text,output):
 
 
 
-#==================================================
+#====================================================
 
 
 @click.option("-t","--text",help = "Takes the input as text", type=bool, default = False, show_default = True,is_flag = True)
@@ -71,7 +71,7 @@ def decode(input,text,output):
 	if text:
 		try:
 			output_value = [pybase64.b64decode(input.encode()).decode(),str]
-		except:
+		except Exception as e:
 			click.echo("Error: Text is not base64")
 			exit()
 	elif input:
@@ -91,8 +91,8 @@ def decode(input,text,output):
 						#it's contents are actually binary data. So we need to convert it into binary
 						output_value = [pybase64.b64decode(contents.encode()),bytes]
 			except Exception as e:
-				print(e)
-				click.echo("Error: File is not base64")
+				click.echo("Error: File is not base64",err = True)
+				exit()
 	if not output:
 		click.echo(output_value[0])
 	else:
@@ -100,7 +100,7 @@ def decode(input,text,output):
 
 
 
-
+#app.add_command(validate)
 app.add_command(decode)
 app.add_command(encode)
 
